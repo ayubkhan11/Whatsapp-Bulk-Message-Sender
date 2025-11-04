@@ -1,0 +1,90 @@
+2025/11/04-20:52:32.145 b98 Reusing MANIFEST E:\Python Projects\wa sender\chrome_whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/04-20:52:32.146 b98 Recovering log #596
+2025/11/04-20:52:32.164 b98 Reusing old log E:\Python Projects\wa sender\chrome_whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000596.log 
+2025/11/04-20:52:33.171 1ed8 Level-0 table #607: started
+2025/11/04-20:52:33.519 1ed8 Level-0 table #607: 346690 bytes OK
+2025/11/04-20:52:33.530 1ed8 Delete type=0 #596
+2025/11/04-20:52:33.531 1ed8 Manual compaction at level-0 from '\x00Y\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00Z\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/04-20:52:35.651 26d4 Compacting 1@1 + 7@2 files
+2025/11/04-20:52:35.890 26d4 Generated table #608@1: 77263 keys, 2241740 bytes
+2025/11/04-20:52:36.173 26d4 Generated table #609@1: 24549 keys, 2182908 bytes
+2025/11/04-20:52:36.306 26d4 Generated table #610@1: 20775 keys, 2191007 bytes
+2025/11/04-20:52:36.394 26d4 Generated table #611@1: 9759 keys, 2134054 bytes
+2025/11/04-20:52:36.589 26d4 Generated table #612@1: 97127 keys, 2245930 bytes
+2025/11/04-20:52:36.726 26d4 Generated table #613@1: 108281 keys, 2261034 bytes
+2025/11/04-20:52:36.872 26d4 Generated table #614@1: 84421 keys, 1761688 bytes
+2025/11/04-20:52:36.873 26d4 Compacted 1@1 + 7@2 files => 15018361 bytes
+2025/11/04-20:52:36.883 26d4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/11/04-20:52:36.884 26d4 Delete type=2 #598
+2025/11/04-20:52:36.884 26d4 Delete type=2 #599
+2025/11/04-20:52:36.884 26d4 Delete type=2 #600
+2025/11/04-20:52:36.884 26d4 Delete type=2 #601
+2025/11/04-20:52:36.884 26d4 Delete type=2 #602
+2025/11/04-20:52:36.885 26d4 Delete type=2 #603
+2025/11/04-20:52:36.885 26d4 Delete type=2 #604
+2025/11/04-20:52:36.885 26d4 Delete type=2 #607
+2025/11/04-20:52:44.026 2bf4 Level-0 table #616: started
+2025/11/04-20:52:44.168 2bf4 Level-0 table #616: 1211198 bytes OK
+2025/11/04-20:52:44.180 2bf4 Delete type=0 #606
+2025/11/04-20:52:49.180 26d4 Compacting 1@1 + 7@2 files
+2025/11/04-20:52:49.293 26d4 Level-0 table #619: started
+2025/11/04-20:52:49.383 26d4 Level-0 table #619: 342193 bytes OK
+2025/11/04-20:52:49.394 26d4 Delete type=0 #615
+2025/11/04-20:52:49.587 26d4 Generated table #617@1: 77968 keys, 2243222 bytes
+2025/11/04-20:52:49.749 26d4 Generated table #620@1: 25853 keys, 2189698 bytes
+2025/11/04-20:52:49.888 26d4 Generated table #621@1: 20048 keys, 2191190 bytes
+2025/11/04-20:52:49.992 26d4 Generated table #622@1: 9873 keys, 2133582 bytes
+2025/11/04-20:52:50.196 26d4 Generated table #623@1: 88390 keys, 2234197 bytes
+2025/11/04-20:52:50.423 26d4 Generated table #624@1: 108078 keys, 2260102 bytes
+2025/11/04-20:52:50.628 26d4 Generated table #625@1: 95656 keys, 2001713 bytes
+2025/11/04-20:52:50.628 26d4 Compacted 1@1 + 7@2 files => 15253704 bytes
+2025/11/04-20:52:50.661 26d4 compacted to: files[ 1 0 7 0 0 0 0 ]
+2025/11/04-20:52:50.662 1ed8 Manual compaction at level-0 from '\x00Z\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00[\x00\x00\x00' @ 0 : 0; will stop at '\x00Z\x00\x00\x05' @ 2144600 : 1
+2025/11/04-20:52:50.662 1ed8 Compacting 1@0 + 0@1 files
+2025/11/04-20:52:50.697 1ed8 Generated table #626@0: 4973 keys, 131443 bytes
+2025/11/04-20:52:50.699 1ed8 Compacted 1@0 + 0@1 files => 131443 bytes
+2025/11/04-20:52:50.719 1ed8 compacted to: files[ 0 1 7 0 0 0 0 ]
+2025/11/04-20:52:50.719 1ed8 Delete type=2 #619
+2025/11/04-20:52:50.720 1ed8 Manual compaction at level-0 from '\x00Z\x00\x00\x05' @ 2144600 : 1 .. '\x00[\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/04-20:52:52.547 26d4 Compacting 1@1 + 4@2 files
+2025/11/04-20:52:52.726 26d4 Generated table #627@1: 77779 keys, 2242087 bytes
+2025/11/04-20:52:52.920 26d4 Generated table #628@1: 25183 keys, 2180304 bytes
+2025/11/04-20:52:53.082 26d4 Generated table #629@1: 20584 keys, 2192838 bytes
+2025/11/04-20:52:53.192 26d4 Generated table #630@1: 9244 keys, 2079377 bytes
+2025/11/04-20:52:53.192 26d4 Compacted 1@1 + 4@2 files => 8694606 bytes
+2025/11/04-20:52:53.210 26d4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/11/04-20:52:53.210 26d4 Delete type=2 #608
+2025/11/04-20:52:53.210 26d4 Delete type=2 #609
+2025/11/04-20:52:53.211 26d4 Delete type=2 #610
+2025/11/04-20:52:53.211 26d4 Delete type=2 #611
+2025/11/04-20:52:53.211 26d4 Delete type=2 #612
+2025/11/04-20:52:53.211 26d4 Delete type=2 #613
+2025/11/04-20:52:53.211 26d4 Delete type=2 #614
+2025/11/04-20:52:53.211 26d4 Delete type=2 #616
+2025/11/04-20:52:53.211 26d4 Delete type=2 #617
+2025/11/04-20:52:53.211 26d4 Delete type=2 #620
+2025/11/04-20:52:53.211 26d4 Delete type=2 #621
+2025/11/04-20:52:53.211 26d4 Delete type=2 #622
+2025/11/04-20:52:53.212 26d4 Delete type=2 #626
+2025/11/04-20:53:06.141 2bf4 Level-0 table #632: started
+2025/11/04-20:53:06.186 2bf4 Level-0 table #632: 487624 bytes OK
+2025/11/04-20:53:06.197 2bf4 Delete type=0 #618
+2025/11/04-20:53:06.198 26d4 Manual compaction at level-0 from '\x00[\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/04-20:53:10.304 26d4 Compacting 1@1 + 7@2 files
+2025/11/04-20:53:10.528 26d4 Generated table #633@1: 78450 keys, 2243720 bytes
+2025/11/04-20:53:10.655 26d4 Generated table #634@1: 25737 keys, 2180814 bytes
+2025/11/04-20:53:10.750 26d4 Generated table #635@1: 20100 keys, 2190505 bytes
+2025/11/04-20:53:10.832 26d4 Generated table #636@1: 9847 keys, 2133100 bytes
+2025/11/04-20:53:10.969 26d4 Generated table #637@1: 88702 keys, 2233344 bytes
+2025/11/04-20:53:11.130 26d4 Generated table #638@1: 108183 keys, 2260491 bytes
+2025/11/04-20:53:11.255 26d4 Generated table #639@1: 95144 keys, 1989761 bytes
+2025/11/04-20:53:11.255 26d4 Compacted 1@1 + 7@2 files => 15231735 bytes
+2025/11/04-20:53:11.266 26d4 compacted to: files[ 0 0 7 0 0 0 0 ]
+2025/11/04-20:53:11.266 26d4 Delete type=2 #623
+2025/11/04-20:53:11.266 26d4 Delete type=2 #624
+2025/11/04-20:53:11.266 26d4 Delete type=2 #625
+2025/11/04-20:53:11.266 26d4 Delete type=2 #627
+2025/11/04-20:53:11.266 26d4 Delete type=2 #628
+2025/11/04-20:53:11.267 26d4 Delete type=2 #629
+2025/11/04-20:53:11.267 26d4 Delete type=2 #630
+2025/11/04-20:53:11.267 26d4 Delete type=2 #632

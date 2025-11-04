@@ -1,0 +1,342 @@
+[2025-11-03 19:42:21] ✅ IMAGE+TEXT SENT - 918072770837 
+[2025-11-03 19:42:54] ✅ IMAGE+TEXT SENT - 919488518637 
+[2025-11-04 11:43:18] ✅ IMAGE+TEXT SENT - 63821 99094 
+[2025-11-04 11:43:52] ✅ IMAGE+TEXT SENT - 84380 06697 
+[2025-11-04 11:44:25] ✅ IMAGE+TEXT SENT - 96779 27719 
+[2025-11-04 11:44:58] ✅ IMAGE+TEXT SENT - 63810 74802 
+[2025-11-04 11:45:31] ✅ IMAGE+TEXT SENT - 94881 61545 
+[2025-11-04 11:46:04] ✅ IMAGE+TEXT SENT - 99768 02811 
+[2025-11-04 11:46:38] ✅ IMAGE+TEXT SENT - 94430 58479 
+[2025-11-04 11:47:11] ✅ IMAGE+TEXT SENT - 76675 66820 
+[2025-11-04 11:47:46] ✅ IMAGE+TEXT SENT - 79047 73262 
+[2025-11-04 11:48:21] ✅ IMAGE+TEXT SENT - 72006 36690 
+[2025-11-04 11:48:57] ✅ IMAGE+TEXT SENT - 93984 17112 
+[2025-11-04 11:49:33] ✅ IMAGE+TEXT SENT - 99443 46862 
+[2025-11-04 11:50:08] ✅ IMAGE+TEXT SENT - 94898 10178 
+[2025-11-04 11:50:42] ✅ IMAGE+TEXT SENT - 86108 22449 
+[2025-11-04 11:51:15] ✅ IMAGE+TEXT SENT - 87783 70377 
+[2025-11-04 11:51:51] ✅ IMAGE+TEXT SENT - 94432 18485 
+[2025-11-04 11:52:26] ✅ IMAGE+TEXT SENT - 96329 24545 
+[2025-11-04 11:53:03] ✅ IMAGE+TEXT SENT - 74489 22333 
+[2025-11-04 11:53:37] ✅ IMAGE+TEXT SENT - 86819 55595 
+[2025-11-04 11:54:20] ❌ FAILED - 95978 33989 (Chat box not found)
+[2025-11-04 11:55:14] ✅ IMAGE+TEXT SENT - 96299 00999 
+[2025-11-04 11:55:56] ✅ IMAGE+TEXT SENT - 77088 27052 
+[2025-11-04 11:56:36] ✅ IMAGE+TEXT SENT - 90470 70285 
+[2025-11-04 11:57:21] ✅ IMAGE+TEXT SENT - 80569 95899 
+[2025-11-04 11:57:58] ✅ IMAGE+TEXT SENT - 94430 81583 
+[2025-11-04 11:58:42] ✅ IMAGE+TEXT SENT - 95788 12221 
+[2025-11-04 11:59:18] ✅ IMAGE+TEXT SENT - 75982 56483 
+[2025-11-04 12:00:01] ✅ IMAGE+TEXT SENT - 82489 79368 
+[2025-11-04 12:00:37] ✅ IMAGE+TEXT SENT - 93843 41169 
+[2025-11-04 12:01:21] ✅ IMAGE+TEXT SENT - 99941 31105 
+[2025-11-04 12:02:02] ✅ IMAGE+TEXT SENT - 63695 12803 
+[2025-11-04 12:02:37] ✅ IMAGE+TEXT SENT - 79048 90154 
+[2025-11-04 12:03:12] ✅ IMAGE+TEXT SENT - 85266 32818 
+[2025-11-04 12:04:02] ✅ IMAGE+TEXT SENT - 97868 24129 
+[2025-11-04 12:04:43] ✅ IMAGE+TEXT SENT - 97872 26504 
+[2025-11-04 12:05:19] ✅ IMAGE+TEXT SENT - 96599 98929 
+[2025-11-04 12:05:59] ✅ IMAGE+TEXT SENT - 72004 75860 
+[2025-11-04 12:06:44] ✅ IMAGE+TEXT SENT - 95737 70618 
+[2025-11-04 12:07:20] ✅ IMAGE+TEXT SENT - 76767 64140 
+[2025-11-04 12:07:59] ✅ IMAGE+TEXT SENT - 63822 63407 
+[2025-11-04 12:08:36] ✅ IMAGE+TEXT SENT - 96299 89336 
+[2025-11-04 12:09:14] ✅ IMAGE+TEXT SENT - 97891 08020 
+[2025-11-04 12:09:51] ✅ IMAGE+TEXT SENT - 94428 26378 
+[2025-11-04 12:10:28] ✅ IMAGE+TEXT SENT - 99945 84504 
+[2025-11-04 12:11:06] ✅ IMAGE+TEXT SENT - 97895 21704 
+[2025-11-04 12:11:42] ✅ IMAGE+TEXT SENT - 90034 15144 
+[2025-11-04 12:12:20] ✅ IMAGE+TEXT SENT - 99941 11115 
+[2025-11-04 12:13:01] ✅ IMAGE+TEXT SENT - 97872 53705 
+[2025-11-04 12:13:39] ✅ IMAGE+TEXT SENT - 95350 23426 
+[2025-11-04 12:14:19] ✅ IMAGE+TEXT SENT - 89251 14477 
+[2025-11-04 12:27:35] ❌ FAILED - 8072770837 Message: element click intercepted: Element <div aria-activedescendant="" aria-autocomplete="list" aria-label="Type to +91 8072 770 837" aria-owns="emoji-suggestion" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" contenteditable="true" role="textbox" spellcheck="true" tabindex="10" aria-placeholder="Type a message" data-tab="10" data-lexical-editor="true" style="max-height: 11.76em; min-height: 1.47em; user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (940, 588). Other element would receive the click: <button class="xjb2p0i xk390pu x1heor9g x1ypdohk xjbqb8w xexx8yu xyri2b x18d9i69 x1c1uobl x78zum5 x6s0dn4 xl56j7k x9hgts1 xdd8jsf x178xt8z x1lun4ml xso031l xpilrb4 x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1pyc6se x1mlb2bo x16pkwpw xqe4bef x13t61ll x1kchd1x x1u0fnx4 xbxn0j6 x1xmf6yo x1e56ztr xpcyujq xf6vk7d xtnn1bt x9v5kkp xmw7ebm xrdum7p" tabindex="0" aria-disabled="false" title="Add file" type="button" aria-label="Add file">...</button>
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff701d17a35
+	0x7ff701d17a90
+	0x7ff701a916ad
+	0x7ff701af2359
+	0x7ff701aefcde
+	0x7ff701aecc11
+	0x7ff701aebad0
+	0x7ff701add2c8
+	0x7ff701b1297a
+	0x7ff701adcb56
+	0x7ff701b3b8fb
+	0x7ff701adb068
+	0x7ff701adbe93
+	0x7ff701fd29d0
+	0x7ff701fcce50
+	0x7ff701fecc45
+	0x7ff701d330ce
+	0x7ff701d3adbf
+	0x7ff701d20c14
+	0x7ff701d20dcf
+	0x7ff701d06828
+	0x7ff859ca7374
+	0x7ff85bcbcc91
+
+[2025-11-04 12:28:03] ❌ FAILED - 9488518637 Message: element click intercepted: Element <div aria-activedescendant="" aria-autocomplete="list" aria-label="Type to My Number" aria-owns="emoji-suggestion" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" contenteditable="true" role="textbox" spellcheck="true" tabindex="10" aria-placeholder="Type a message" data-tab="10" data-lexical-editor="true" style="max-height: 11.76em; min-height: 1.47em; user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (940, 588). Other element would receive the click: <button class="xjb2p0i xk390pu x1heor9g x1ypdohk xjbqb8w xexx8yu xyri2b x18d9i69 x1c1uobl x78zum5 x6s0dn4 xl56j7k x9hgts1 xdd8jsf x178xt8z x1lun4ml xso031l xpilrb4 x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1pyc6se x1mlb2bo x16pkwpw xqe4bef x13t61ll x1kchd1x x1u0fnx4 xbxn0j6 x1xmf6yo x1e56ztr xpcyujq xf6vk7d xtnn1bt x9v5kkp xmw7ebm xrdum7p" tabindex="0" aria-disabled="false" title="Add file" type="button" aria-label="Add file">...</button>
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff701d17a35
+	0x7ff701d17a90
+	0x7ff701a916ad
+	0x7ff701af2359
+	0x7ff701aefcde
+	0x7ff701aecc11
+	0x7ff701aebad0
+	0x7ff701add2c8
+	0x7ff701b1297a
+	0x7ff701adcb56
+	0x7ff701b3b8fb
+	0x7ff701adb068
+	0x7ff701adbe93
+	0x7ff701fd29d0
+	0x7ff701fcce50
+	0x7ff701fecc45
+	0x7ff701d330ce
+	0x7ff701d3adbf
+	0x7ff701d20c14
+	0x7ff701d20dcf
+	0x7ff701d06828
+	0x7ff859ca7374
+	0x7ff85bcbcc91
+
+[2025-11-04 12:43:51] 🌐 Chrome launched successfully.
+[2025-11-04 12:44:43] 📤 Sending to 8072770837 (1/2)...
+[2025-11-04 12:45:03] ⚠️ Image sending failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xda58c3
+	0xda5904
+	0xbbe76d
+	0xc0a09d
+	0xc0a47b
+	0xc51802
+	0xc2c9b4
+	0xc4eea6
+	0xc2c766
+	0xbfdac0
+	0xbfede4
+	0x1027974
+	0x1022bea
+	0xdce5b4
+	0xdbdd28
+	0xdc4d8d
+	0xdaded8
+	0xdae09c
+	0xd97d1a
+	0x7658fcc9
+	0x776e809e
+	0x776e806e
+
+[2025-11-04 12:45:04] ✅ Sent text to 8072770837
+[2025-11-04 12:45:08] 📤 Sending to 9488518637 (2/2)...
+[2025-11-04 12:45:27] ⚠️ Image sending failed: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xda58c3
+	0xda5904
+	0xbbe76d
+	0xc0a09d
+	0xc0a47b
+	0xc51802
+	0xc2c9b4
+	0xc4eea6
+	0xc2c766
+	0xbfdac0
+	0xbfede4
+	0x1027974
+	0x1022bea
+	0xdce5b4
+	0xdbdd28
+	0xdc4d8d
+	0xdaded8
+	0xdae09c
+	0xd97d1a
+	0x7658fcc9
+	0x776e809e
+	0x776e806e
+
+[2025-11-04 12:45:27] ✅ Sent text to 9488518637
+[2025-11-04 12:45:31] 🎉 All messages processed successfully!
+[2025-11-04 12:52:16] ✅ TEXT ONLY - 8072770837 (Image failed)
+[2025-11-04 12:52:29] ✅ TEXT ONLY - 9488518637 (Image failed)
+[2025-11-04 12:55:27] ❌ FAILED - 8072770837 Message: element click intercepted: Element <div aria-activedescendant="" aria-autocomplete="list" aria-label="Type to +91 8072 770 837" aria-owns="emoji-suggestion" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" contenteditable="true" role="textbox" spellcheck="true" tabindex="10" aria-placeholder="Type a message" data-tab="10" data-lexical-editor="true" style="max-height: 11.76em; min-height: 1.47em; user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (940, 588). Other element would receive the click: <button class="xjb2p0i xk390pu x1heor9g x1ypdohk xjbqb8w xexx8yu xyri2b x18d9i69 x1c1uobl x78zum5 x6s0dn4 xl56j7k x9hgts1 xdd8jsf x178xt8z x1lun4ml xso031l xpilrb4 x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1pyc6se x1mlb2bo x16pkwpw xqe4bef x13t61ll x1kchd1x x1u0fnx4 xbxn0j6 x1xmf6yo x1e56ztr xpcyujq xf6vk7d xtnn1bt x9v5kkp xmw7ebm xrdum7p" tabindex="0" aria-disabled="false" title="Add file" type="button" aria-label="Add file">...</button>
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xda58c3
+	0xda5904
+	0xbbe76d
+	0xc105e0
+	0xc0e943
+	0xc0c3e7
+	0xc0b65d
+	0xbffdf5
+	0xc2c96c
+	0xbff854
+	0xc2cb24
+	0xc4eea6
+	0xc2c766
+	0xbfdac0
+	0xbfede4
+	0x1027974
+	0x1022bea
+	0xdce5b4
+	0xdbdd28
+	0xdc4d8d
+	0xdaded8
+	0xdae09c
+	0xd97d1a
+	0x7658fcc9
+	0x776e809e
+	0x776e806e
+
+[2025-11-04 12:55:43] ❌ FAILED - 9488518637 Message: element click intercepted: Element <div aria-activedescendant="" aria-autocomplete="list" aria-label="Type to My Number" aria-owns="emoji-suggestion" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" contenteditable="true" role="textbox" spellcheck="true" tabindex="10" aria-placeholder="Type a message" data-tab="10" data-lexical-editor="true" style="max-height: 11.76em; min-height: 1.47em; user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (940, 588). Other element would receive the click: <button class="xjb2p0i xk390pu x1heor9g x1ypdohk xjbqb8w xexx8yu xyri2b x18d9i69 x1c1uobl x78zum5 x6s0dn4 xl56j7k x9hgts1 xdd8jsf x178xt8z x1lun4ml xso031l xpilrb4 x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1pyc6se x1mlb2bo x16pkwpw xqe4bef x13t61ll x1kchd1x x1u0fnx4 xbxn0j6 x1xmf6yo x1e56ztr xpcyujq xf6vk7d xtnn1bt x9v5kkp xmw7ebm xrdum7p" tabindex="0" aria-disabled="false" title="Add file" type="button" aria-label="Add file">...</button>
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xda58c3
+	0xda5904
+	0xbbe76d
+	0xc105e0
+	0xc0e943
+	0xc0c3e7
+	0xc0b65d
+	0xbffdf5
+	0xc2c96c
+	0xbff854
+	0xc2cb24
+	0xc4eea6
+	0xc2c766
+	0xbfdac0
+	0xbfede4
+	0x1027974
+	0x1022bea
+	0xdce5b4
+	0xdbdd28
+	0xdc4d8d
+	0xdaded8
+	0xdae09c
+	0xd97d1a
+	0x7658fcc9
+	0x776e809e
+	0x776e806e
+
+[2025-11-04 13:12:45] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 13:13:16] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 14:18:43] ❌ FAILED - 9488518637 Message: element click intercepted: Element <div aria-activedescendant="" aria-autocomplete="list" aria-label="Type to My Number" aria-owns="emoji-suggestion" class="x1hx0egp x6ikm8r x1odjw0f x1k6rcq7 x6prxxf" contenteditable="true" role="textbox" spellcheck="true" tabindex="10" aria-placeholder="Type a message" data-tab="10" data-lexical-editor="true" style="max-height: 11.76em; min-height: 1.47em; user-select: text; white-space: pre-wrap; word-break: break-word;">...</div> is not clickable at point (940, 588). Other element would receive the click: <button class="xjb2p0i xk390pu x1heor9g x1ypdohk xjbqb8w xexx8yu xyri2b x18d9i69 x1c1uobl x78zum5 x6s0dn4 xl56j7k x9hgts1 xdd8jsf x178xt8z x1lun4ml xso031l xpilrb4 x13fuv20 x18b5jzi x1q0q8m5 x1t7ytsu x1pyc6se x1mlb2bo x16pkwpw xqe4bef x13t61ll x1kchd1x x1u0fnx4 xbxn0j6 x1xmf6yo x1e56ztr xpcyujq xf6vk7d xtnn1bt x9v5kkp xmw7ebm xrdum7p" tabindex="0" aria-disabled="false" title="Add file" type="button" aria-label="Add file">...</button>
+  (Session info: chrome=142.0.7444.60); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff6af8f7a35
+	0x7ff6af8f7a90
+	0x7ff6af6716ad
+	0x7ff6af6d2359
+	0x7ff6af6cfcde
+	0x7ff6af6ccc11
+	0x7ff6af6cbad0
+	0x7ff6af6bd2c8
+	0x7ff6af6f297a
+	0x7ff6af6bcb56
+	0x7ff6af71b8fb
+	0x7ff6af6bb068
+	0x7ff6af6bbe93
+	0x7ff6afbb29d0
+	0x7ff6afbace50
+	0x7ff6afbccc45
+	0x7ff6af9130ce
+	0x7ff6af91adbf
+	0x7ff6af900c14
+	0x7ff6af900dcf
+	0x7ff6af8e6828
+	0x7ff859ca7374
+	0x7ff85bcbcc91
+
+[2025-11-04 15:51:25] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 15:52:07] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 15:59:53] ❌ FAILED - 8072770837 Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff792a97a35
+	0x7ff792a97a90
+	0x7ff7928114b5
+	0x7ff79285a141
+	0x7ff792892882
+	0x7ff79288d0ef
+	0x7ff79288c2ea
+	0x7ff7927dacb5
+	0x7ff792d529d0
+	0x7ff792d4ce50
+	0x7ff792d6cc45
+	0x7ff792ab30ce
+	0x7ff792abadbf
+	0x7ff7927d977b
+	0x7ff792e8b848
+	0x7ff859ca7374
+	0x7ff85bcbcc91
+
+[2025-11-04 15:59:53] ❌ FAILED - 9488518637 Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff792a97a35
+	0x7ff792a97a90
+	0x7ff7928114b5
+	0x7ff79285a141
+	0x7ff792892882
+	0x7ff79288d0ef
+	0x7ff79288c2ea
+	0x7ff7927dacb5
+	0x7ff792d529d0
+	0x7ff792d4ce50
+	0x7ff792d6cc45
+	0x7ff792ab30ce
+	0x7ff792abadbf
+	0x7ff7927d977b
+	0x7ff792e8b848
+	0x7ff859ca7374
+	0x7ff85bcbcc91
+
+[2025-11-04 17:26:59] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 17:28:04] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 17:32:27] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 17:34:27] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 17:37:25] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 17:43:42] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 17:49:09] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 17:49:31] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 18:32:04] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 18:32:41] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 18:36:34] ❌ FAILED - 91XXXXXXXXXX (Chat box not found)
+[2025-11-04 18:37:37] ❌ FAILED - 91XXXXXXXXXX Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff604e67a35
+	0x7ff604e67a90
+	0x7ff604be14b5
+	0x7ff604c2a141
+	0x7ff604c62882
+	0x7ff604c5d0ef
+	0x7ff604c5c2ea
+	0x7ff604baacb5
+	0x7ff6051229d0
+	0x7ff60511ce50
+	0x7ff60513cc45
+	0x7ff604e830ce
+	0x7ff604e8adbf
+	0x7ff604ba977b
+	0x7ff60525b848
+	0x7ff859ca7374
+	0x7ff85bcbcc91
+
+[2025-11-04 18:38:33] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 18:38:49] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 18:39:58] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 18:40:14] ✅ IMAGE+TEXT SENT - 9488518637 
+[2025-11-04 20:53:03] ✅ IMAGE+TEXT SENT - 8072770837 
+[2025-11-04 20:53:19] ✅ IMAGE+TEXT SENT - 9488518637 
