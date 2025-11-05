@@ -1,11 +1,71 @@
-# Ignore Chrome / WhatsApp local data
+# ==============================
+# 🧩 PROJECT: WhatsApp Automation by CoderzWeb
+# ==============================
+
+# --- Local Chrome / WhatsApp Data ---
 chrome_whatsapp_profile/
 selenium_whatsapp_session/
-logs.txt
 
-# Python / IDE common ignores
+# --- Logs and temp files ---
+logs.txt
+*.log
+logs/
+*.tmp
+temp/
+
+# --- Python cache / build ---
 __pycache__/
 *.pyc
-*.log
+*.pyo
+*.pyd
+*.pdb
+*.spec
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+.env/
+
+# --- IDE / Editor settings ---
 .vscode/
-.env/   
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Tkinter / CustomTkinter window cache ---
+*.tcl
+*.tk
+
+# --- Packaging / Distribution ---
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# --- Backup files ---
+*~
+*.bak
+*.swp
+*.swo
+
+# --- User uploads / media (optional) ---
+media/
+uploads/
+output/
+
+# --- Ignore test data ---
+contacts.txt
+sample_contacts.txt
+test_image.jpg
+test_image.png
+
+# --- Misc runtime files ---
+whatsapp_auto_session/
+session_data/
