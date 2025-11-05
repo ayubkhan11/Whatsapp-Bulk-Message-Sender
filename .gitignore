@@ -1,0 +1,11 @@
+# Ignore Chrome / WhatsApp local data
+chrome_whatsapp_profile/
+selenium_whatsapp_session/
+logs.txt
+
+# Python / IDE common ignores
+__pycache__/
+*.pyc
+*.log
+.vscode/
+.env/   
