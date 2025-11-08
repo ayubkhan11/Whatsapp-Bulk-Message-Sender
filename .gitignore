@@ -69,3 +69,6 @@ test_image.png
 # --- Misc runtime files ---
 whatsapp_auto_session/
 session_data/
+build/
+dist/
+build.bat/
