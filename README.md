@@ -1,3 +1,5 @@
+Note: This is a example of what can be done using automation. Don't Use this to send bulk messages it may lead to account restriction as its against whatsapp rules
+
 # 💬 WhatsApp Automation by CoderzWeb
 
 A modern Python application that automates WhatsApp message sending — including **text, media, and multiple contacts** — powered by **Selenium** and **CustomTkinter**.  
